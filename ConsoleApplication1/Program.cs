@@ -10,13 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            //MyWorks cls = null;
-            //bool test = null== null; //DateTime.Today > cls?.DateTimeProp;
-            ////DateTime dt = cls?.DateTimeProp;
-
-            //Console.WriteLine("C "+cls?.BoolProp);
-            //Console.WriteLine(cls?.IntPro);
-            //Console.WriteLine(cls?.DateTimeProp);
+            //Test commennts
             Console.WriteLine("Hello World!!");
 
             Console.ReadLine();
